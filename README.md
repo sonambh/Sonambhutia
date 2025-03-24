@@ -17,7 +17,7 @@ This project explores a Canadian Employment dataset by combining visualization a
 - Built a **predictive model** to forecast employment changes and recommended workforce optimization strategies.
 
 - Skills - Data Cleaning, Data Analysis, Data Visualization, Predictive Modelling.
-🔗 [View Project](Employment-Trends-Canada/Analyzing Employment Trends in Canada.ipynb)  
+🔗 [View Project](Employment-Trends-Canada)  
 
 ### 2️⃣ **Northwind Database Analysis**  
  *Business Process Analysis & Market Insights*  
