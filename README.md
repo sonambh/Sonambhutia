@@ -2,7 +2,8 @@
 ## Data Analytics Portfolio
 
 ### About Me  
-Hi, I'm **Sonam**, a data analyst passionate about turning raw data into actionable insights. With expertise in data cleaning, visualization, and predictive modeling, I specialize in using **Python, R, SQL, Power BI, and Tableau** to drive data-driven decision-making.
+Hi, I'm **Sonam**, I have an economics background, and recently I completed my post-grad studies in Analytics in Business Decision Making. I have developed a strong foundation in analytics and a passion to analyze and support businesses with data driven decision making. Skilled in data cleaning, visualization, and analysis, I specialize in using **Python, R, SQL, Power BI, and Tableau** to identify patterns and trends to uncover insights. I am excited to bring my skills and further learn and grown in the field of analytics. In my spare time I enjoy winding down with a good book, and I am always looking for new opportunities to expand my knowledge and skills. 
+This is a repository to showcase my skills, share projects and to track my progress in analytics. 
 
 ---
 
