@@ -10,17 +10,20 @@ This is a repository to showcase my skills, share projects and to track my progr
 ##  Portfolio Projects  
 
 In this section I will list the analytics projects briefly describing the goal and analysis. 
-### 1️⃣ ** Analysis of mployment Trends in Canada **  
+### 1️⃣ ** Analysis of Employment Trends in Canada **  
+
 This project explores a Canadian Employment dataset by combining visualization and statistical methods with the aim of uncovering patterns and trends and provide recommendations to forecast future changes. 
 - Analyzed employment trends across industries using **Python (Pandas, Seaborn, Scikit-Learn)**.
 - Applied **dimensionality reduction** and **outlier detection** to clean and preprocess data.
 - Built a **predictive model** to forecast employment changes and recommended workforce optimization strategies.
 
 - Skills - Data Cleaning, Data Analysis, Data Visualization, Predictive Modelling.
-🔗 [View Project](Employment-Trends-Canada)  
+🔗 [View Project](Employment-Trends-Canada)
+
+Results - 
 
 ### 2️⃣ **Northwind Database Analysis**  
- *Business Process Analysis & Market Insights*  
+
 - This project explores sales trends in the Northwind database to provide insights into revenue patterns, product performance, and customer behavior over time. Key analyses include:
 - Monthly Sales Amount: Computes total revenue per month to identify seasonal trends.
 - Top-Selling Products: Determines the highest-selling product each month based on quantity sold.
@@ -28,13 +31,19 @@ This project explores a Canadian Employment dataset by combining visualization a
 - Customer Order Analysis: Analyzes the number of orders placed by each customer per month to understand purchasing behavior.
 
 - Skills - SQL Queries, Database management, Data Analysis. 
-🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Northwind%20Database%20Analysis.sql)  
+🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Northwind%20Database%20Analysis.sql)
+
+Results - 
 
 ### 3️⃣ **Employee Retention Study**  
 *HR Analytics & Power BI Dashboard*  
 - Investigated factors leading to **employee turnover** in a pharmaceutical company.
-- Used **Power BI** to create a dashboard with retention insights.  
-🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/HR%20Analytics%20Dashboard.pbix)  
+- Used **Power BI** to create a dashboard with retention insights.
+
+- Skills - Data Visualization, Data Query, Formulas. 
+🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/HR%20Analytics%20Dashboard.pbix)
+
+Results - 
 
 ---
 
