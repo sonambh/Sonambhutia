@@ -12,7 +12,7 @@ Hi, I'm Sonam, a data analyst passionate about turning raw data into actionable 
 - Analyzed employment trends across industries in Canada using **Python (Pandas, Seaborn, Scikit-Learn)**.
 - Applied **dimensionality reduction** and **outlier detection** to clean and preprocess data.
 - Built a **predictive model** to forecast employment changes and recommended workforce optimization strategies.  
-🔗 [View Project](https://github.com/yourusername/Employment-Trends-Canada)  
+🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Analyzing%20Employment%20Trends%20in%20Canada.ipynb)  
 
 ### 2️⃣ **Airline Cargo Analysis**  
 📌 *Business Process Analysis & Market Insights*  
