@@ -39,10 +39,17 @@ This project explores a Canadian Employment dataset by combining visualization a
 ---
 
 ## Technical Skills  
-- **Programming & Querying:** Python (Pandas, NumPy, Scikit-Learn), SQL, R  
-- **Visualization Tools:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Machine Learning & Statistical Analysis:** Regression, Classification, Clustering, ANOVA  
+- **Programming & Querying:** Python (Pandas, NumPy, Scikit-Learn), SQL
+- **Visualization Tools:** Power BI, Tableau, SAS
+- **Machine Learning & Statistical Analysis:** Regression, Classification, Clustering 
 - **Data Wrangling & ETL:** Cleaning, Merging, Normalization  
+
+---
+
+## Education
+- **Post-Graduate Certification - Analytics for Business Decision Making : George Brown College**
+- **Post-Graduate Certificate - Business Analysis and Process Management : Sheridan College**
+- **Bachelor of Arts - Economics : University of Calicut**
 
 ---
 
