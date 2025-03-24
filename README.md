@@ -1,7 +1,7 @@
 # Sonambhutia
-# Data Analytics Portfolio
+## Data Analytics Portfolio
 
-## About Me  
+### About Me  
 Hi, I'm Sonam, I have an Economics background, and recently I completed my post-grad studies in Analytics. I have developed a strong foundation in data and analytics and a passion about turning raw data into actionable insights. With expertise in data cleaning, visualization, and predictive modeling, I specialize in using **SQL, Python, SAS and Power Bi** to drive data-driven decision-making. I am excited to bring my skills in the field of analytics and open to any learning opportunities! In my spare time I enjoy winding down with a good book, and looking for new opportunities to expand my knowledge and skills. This is a repository to showcase my skills, share projects and track my progress in data analytics. 
 ---
 
