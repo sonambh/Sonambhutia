@@ -8,11 +8,15 @@ In my spare time I enjoy winding down with a good book, and looking for new oppo
 ---
 
 ##  Portfolio Projects  
-### 1️⃣ **E, Analysis of mployment Trends in Canada **  
-*Exploratory Data Analysis & Predictive Modeling*  
-- Analyzed employment trends across industries in Canada using **Python (Pandas, Seaborn, Scikit-Learn)**.
+
+In this section I will list the analytics projects briefly describing the goal and analysis. 
+### 1️⃣ ** Analysis of mployment Trends in Canada **  
+This project explores a Canadian Employment dataset by combining visualization and statistical methods with the aim of uncovering patterns and trends and provide recommendations to forecast future changes. 
+- Analyzed employment trends across industries using **Python (Pandas, Seaborn, Scikit-Learn)**.
 - Applied **dimensionality reduction** and **outlier detection** to clean and preprocess data.
-- Built a **predictive model** to forecast employment changes and recommended workforce optimization strategies.  
+- Built a **predictive model** to forecast employment changes and recommended workforce optimization strategies.
+
+- Skills - Data Cleaning, Data Analysis, Data Visualization, Predictive Modelling.
 🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Analyzing%20Employment%20Trends%20in%20Canada.ipynb)  
 
 ### 2️⃣ **Northwind Database Analysis**  
@@ -21,7 +25,9 @@ In my spare time I enjoy winding down with a good book, and looking for new oppo
 - Monthly Sales Amount: Computes total revenue per month to identify seasonal trends.
 - Top-Selling Products: Determines the highest-selling product each month based on quantity sold.
 - Product Category Comparison: Compares monthly sales across different product categories to track their performance.
-- Customer Order Analysis: Analyzes the number of orders placed by each customer per month to understand purchasing behavior..  
+- Customer Order Analysis: Analyzes the number of orders placed by each customer per month to understand purchasing behavior.
+
+- Skills - SQL Queries, Database management, Data Analysis. 
 🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Northwind%20Database%20Analysis.sql)  
 
 ### 3️⃣ **Employee Retention Study**  
