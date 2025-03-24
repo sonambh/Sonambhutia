@@ -19,7 +19,7 @@ Hi, I'm Sonam, a data analyst passionate about turning raw data into actionable 
 - Studied how **commercial airlines shifted to cargo operations** during COVID-19.
 - Conducted **competitive analysis** and identified key business challenges.
 - Provided recommendations for future **airline logistics and supply chain strategies**.  
-🔗 [View Project]((https://github.com/sonambh/Sonambhutia/blob/main/Analyzing%20Employment%20Trends%20in%20Canada.ipynb))  
+🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Analyzing%20Employment%20Trends%20in%20Canada.ipynb)  
 
 ### 3️⃣ **Employee Retention Study**  
 📌 *HR Analytics & Power BI Dashboard*  
