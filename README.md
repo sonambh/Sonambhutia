@@ -2,7 +2,7 @@
 ## Data Analytics Portfolio
 
 ### About Me  
-Hi, I'm **Sonam**, I have an economics background, and recently I completed my post-grad studies in Analytics in Business Decision Making. I have developed a strong foundation in analytics combined with a passion to support businesses with data driven decision making. Skilled in data cleaning, visualization, and analysis, I specialize in using **Python, R, SQL, Power BI, and SAS** to identify patterns and trends to uncover insights. I am excited to bring my skills and further learn and grown in the field of analytics. In my spare time I enjoy winding down with a good book, and I am always looking for new opportunities to expand my knowledge and skills. 
+Hi, I'm **Sonam**, I have an economics background, and recently I completed my post-grad studies in Analytics in Business Decision Making. I have developed a strong foundation in analytics combined with a passion to support businesses with data driven decision making. Skilled in data cleaning, visualization, and analysis, I specialize in using **Python, SQL, Power BI, and SAS** to identify patterns and trends to uncover insights. I am excited to bring my skills to further learn and grow in the field of analytics. In my spare time I enjoy winding down with a good book, or going out for a run. I am always looking for new opportunities to expand my knowledge and skills. 
 This is a repository to showcase my skills, share projects and to track my progress in analytics. 
 
 ---
@@ -20,7 +20,6 @@ This project explores a Canadian Employment dataset by combining visualization a
 - Skills - Data Cleaning, Data Analysis, Data Visualization, Predictive Modelling.
 🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Analyzing%20Employment%20Trends%20in%20Canada.ipynb)
 
-Results - 
 
 ### 2️⃣ **Northwind Database Analysis**  
 
@@ -33,17 +32,17 @@ Results -
 - Skills - SQL Queries, Database management, Data Analysis. 
 🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Northwind%20Database%20Analysis.sql)
 
-Results - 
 
 ### 3️⃣ **Employee Retention Study**  
-*HR Analytics & Power BI Dashboard*  
-- Investigated factors leading to **employee turnover** in a pharmaceutical company.
+
+This project involved analysing a employee dataset of a pharmaceutical company to attain key insights about the workplace metrics.
+- Investigated factors leading to **employee turnover** in the company.
 - Used **Power BI** to create a dashboard with retention insights.
+- Showcases Hiring trends and workforce demographics. 
 
 - Skills - Data Visualization, Data Query, Formulas. 
 🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/HR%20Analytics%20Dashboard.pbix)
 
-Results - 
 
 ---
 
@@ -62,6 +61,8 @@ Results -
 
 ---
 
-##  Let's Connect!
-I'm always open to new opportunities and collaborations! Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/sonambhutia/)** or email me at **[sonaambhutia05@gmail.com]**.  
+##  Contact Info
+I'm always open to new opportunities and collaborations!
+My Linkedin - **[LinkedIn](https://www.linkedin.com/in/sonambhutia/)** 
+Email id - **[sonaambhutia05@gmail.com]**.  
 
