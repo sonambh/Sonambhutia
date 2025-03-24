@@ -14,7 +14,7 @@ Hi, I'm Sonam, a data analyst passionate about turning raw data into actionable 
 - Built a **predictive model** to forecast employment changes and recommended workforce optimization strategies.  
 🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/Analyzing%20Employment%20Trends%20in%20Canada.ipynb)  
 
-### 2️⃣ **Airline Cargo Analysis**  
+### 2️⃣ **Northwind Database Analysis**  
 📌 *Business Process Analysis & Market Insights*  
 - Studied how **commercial airlines shifted to cargo operations** during COVID-19.
 - Conducted **competitive analysis** and identified key business challenges.
