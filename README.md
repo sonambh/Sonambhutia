@@ -1,4 +1,4 @@
-# Sonambhutia
+# Sonam Bhutia
 ## Data Analytics Portfolio
 
 ### About Me  
