@@ -26,7 +26,7 @@ Hi, I'm Sonam, a data analyst passionate about turning raw data into actionable 
 - Investigated factors leading to **employee turnover** in a pharmaceutical company.
 - Used **Power BI** to create an interactive dashboard with retention insights.
 - Developed a machine learning model in **Python** to predict attrition rates.  
-🔗 [View Project](https://github.com/yourusername/Employee-Retention-Study)  
+🔗 [View Project](https://github.com/sonambh/Sonambhutia/blob/main/HR%20Analytics%20Dashboard.pbix)  
 
 ---
 
